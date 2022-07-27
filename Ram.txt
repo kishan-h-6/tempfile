@@ -1,1 +1,3 @@
-Math Marks:80 , Science:75
+Name: Kishan
+Roll: 1234
+Subjects: Math Marks:80 , Science:75
