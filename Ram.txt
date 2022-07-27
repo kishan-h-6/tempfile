@@ -1,3 +1,4 @@
 Name: Kishan
 Roll: 1234
 Subjects: Math Marks:80 , Science:75
+Result : Pass
